@@ -10,7 +10,7 @@ Author => Arun Prashanth
 
 <p>the best way to see the ip address of the esp32 is by upload a basic wifi connecting example code from arduino IDE update the ssid and password of the wifi network and upload after that checking the ipaddress of it through the D-link/AnyRouter setting page => connected devices  ! . Generally settings page it starts with example : http://192.168.0.1/ </p>
 
-<p> project 1 : in this project we create a esp32 as web server to on/off  an led with on/off buttons and also button with @min and 5 min these button will on the esp32 as per the time period and automatically off the led   </p>
+<p> project 1 : in this project we create a esp32 as web server to on/off  an led with on/off buttons and also button with 2 min and 5 min these button will on the esp32 as per the time period and automatically off the led   </p>
 
 
 
